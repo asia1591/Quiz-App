@@ -1,6 +1,6 @@
 ﻿# Quiz-App
 
-> **Live Link:** [https://rad-speculoos-c6146a.netlify.app/](https://rad-speculoos-c6146a.netlify.app/)
+> **Live Link:**
 
 ![][img1]
 
@@ -20,7 +20,7 @@
 
 > ### Project Link
 >
-> [**https://rad-speculoos-c6146a.netlify.app/**][projectLink]
+>
 
 ## Contact
 
